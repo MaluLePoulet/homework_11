@@ -1,0 +1,8 @@
+ - Invalid length
+doknum219372837 - Invalid prefix
+kontract - Invalid length
+docnum2829930 - Invalid length
+docnum123456789 - Valid
+docnumb1234567822 - Invalid length
+kontract1234567 - Valid
+89838278432993 - Invalid length
